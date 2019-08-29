@@ -2,4 +2,8 @@
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
+<<<<<<< HEAD
 *.xml linguist-detectable=false   
+=======
+*.xml linguist-detectable=false   
+>>>>>>> ce2ddab9f43a85fb3579bedc169b02e636004931
